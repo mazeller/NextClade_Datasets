@@ -1,2 +1,2 @@
-# NextClade_Datasets
+# NextClade Datasets
 Publicly available nextclade datasets
